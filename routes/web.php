@@ -13,9 +13,9 @@ use App\Http\Controllers\FinancialYearController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 Route::get('/', [FinancialYearController::class, 'index']);
 Route::get('/years/{country}', [FinancialYearController::class, 'getYears']);
 Route::get('/holidays', [FinancialYearController::class, 'getHolidays']);
