@@ -16,9 +16,22 @@ within the financial year, excluding weekends (Saturday and Sunday).
 ## Installation
 
 Clone the repository and navigate into the project folder:
-```bash
-git clone https://github.com/username/project-name.git
-```
-cd project-name
 
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/ajilesh/financial_year.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd your-repository
+    ```
+
+3. Install PHP dependencies:
+
+    ```bash
+    composer install
+    ```
 
