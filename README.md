@@ -13,3 +13,10 @@ Develop a single-page Laravel application that provides the financial year based
 and country (UK or Ireland). Additionally, integrate a public holidays API to display holidays occurring
 within the financial year, excluding weekends (Saturday and Sunday).
 
+## Installation
+
+Clone the repository and navigate into the project folder:
+git clone https://github.com/username/project-name.git
+cd project-name
+
+
