@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Financial Year
+## Financial Year Details
 
 Develop a single-page Laravel application that provides the financial year based on the selected year
 and country (UK or Ireland). Additionally, integrate a public holidays API to display holidays occurring
