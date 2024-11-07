@@ -16,7 +16,9 @@ within the financial year, excluding weekends (Saturday and Sunday).
 ## Installation
 
 Clone the repository and navigate into the project folder:
+```bash
 git clone https://github.com/username/project-name.git
+```
 cd project-name
 
 
