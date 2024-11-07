@@ -37,3 +37,7 @@ Clone the repository and navigate into the project folder:
 
 4. Access the application at `http://localhost:8000`(php artisan serve --port=8000)
 
+   ## Notice
+Api is not proper
+Response :  {"error":{"message":"You can only query individual days on a free plan, not months or years. You must upgrade to make broader queries.","code":"payment_required","details":null}}
+
