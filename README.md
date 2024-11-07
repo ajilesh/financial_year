@@ -35,3 +35,5 @@ Clone the repository and navigate into the project folder:
     composer install
     ```
 
+4. Access the application at `http://localhost:8000`(php artisan serve --port=8000)
+
